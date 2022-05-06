@@ -8,4 +8,6 @@ Accept the assignment in a language of your choice. This will create a repositor
 Look for `README.md` in your repository for further information.
 
 [C++](https://classroom.github.com/a/y5CVvs11) |
-[Java](https://classroom.github.com/a/5QmL-L2o)
+[Java](https://classroom.github.com/a/5QmL-L2o) |
+[C#](https://classroom.github.com/a/wzp7zSv3) |
+[JavaScript](https://classroom.github.com/a/23GXAF1F)
