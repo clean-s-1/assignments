@@ -22,7 +22,7 @@ ColorPair.prototype.toString = function () {
 };
 ```
 
-## Name the file tp reflect the purpose
+## Name the file to reflect the purpose
 
 Consider a file having functions `getColorFromPairNumber` and `getPairNumberFromColor`: Call it `colorPairTranslator` instead of `colorUtils`
 
