@@ -23,6 +23,10 @@ Fri - session / recap + next
 
 ## Try It
 
+[Add functionality using TDD](tdd-add-func.md)
+
+> Complete the ranges-functionality and tests, if not already done!
+
 [TDD first step, then move to completion](tdd-current-ranges.md)
 
 Assessment: [Divide and Cover](type-wise-inference.md)
